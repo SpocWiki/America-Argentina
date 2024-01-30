@@ -114,8 +114,8 @@ id: Argentina
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Argentina//
-markerFolder: ./Argentina/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Argentina] 
