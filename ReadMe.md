@@ -134,8 +134,10 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 [Alcohol-l::10] 
 [Language-Id::492] 
-[geo-lon::-58.41] 
-[geo-lat::-34.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-58.41] 
+[has_place_latitude::-34.62] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-58.41] 
-[geo-lat::-34.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-58.41] 
+[has_place_latitude::-34.62] 
 [name::Buenos Aires] 
 State ::  
 Country :: [[../../../../Argentina]]  
