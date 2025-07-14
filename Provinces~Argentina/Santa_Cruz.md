@@ -41,15 +41,17 @@ markerFolder: ./Santa_Cruz/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Cruz.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.public.md) 
+### [Santa_Cruz](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.md) 
 
-### [Santa_Cruz.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.internal.md) 
+### [Santa_Cruz.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.public.md) 
 
-### [Santa_Cruz.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.protect.md) 
+### [Santa_Cruz.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.internal.md) 
 
-### [Santa_Cruz.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.private.md) 
+### [Santa_Cruz.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.protect.md) 
 
-### [Santa_Cruz.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.personal.md) 
+### [Santa_Cruz.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.private.md) 
 
-### [Santa_Cruz.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Cruz.secret.md)
+### [Santa_Cruz.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.personal.md) 
+
+### [Santa_Cruz.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Cruz.secret.md)
 

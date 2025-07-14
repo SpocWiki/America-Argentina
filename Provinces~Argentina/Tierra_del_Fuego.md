@@ -41,15 +41,17 @@ markerFolder: ./Tierra_del_Fuego/
 
 ## Confidential Links & Embeds: 
 
-### [Tierra_del_Fuego.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.public.md) 
+### [Tierra_del_Fuego](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.md) 
 
-### [Tierra_del_Fuego.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.internal.md) 
+### [Tierra_del_Fuego.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.public.md) 
 
-### [Tierra_del_Fuego.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.protect.md) 
+### [Tierra_del_Fuego.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.internal.md) 
 
-### [Tierra_del_Fuego.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.private.md) 
+### [Tierra_del_Fuego.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.protect.md) 
 
-### [Tierra_del_Fuego.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.personal.md) 
+### [Tierra_del_Fuego.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.private.md) 
 
-### [Tierra_del_Fuego.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.secret.md)
+### [Tierra_del_Fuego.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.personal.md) 
+
+### [Tierra_del_Fuego.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.secret.md)
 

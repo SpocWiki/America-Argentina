@@ -41,15 +41,17 @@ markerFolder: ./Jujuy/
 
 ## Confidential Links & Embeds: 
 
-### [Jujuy.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.public.md) 
+### [Jujuy](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.md) 
 
-### [Jujuy.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.internal.md) 
+### [Jujuy.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.public.md) 
 
-### [Jujuy.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.protect.md) 
+### [Jujuy.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.internal.md) 
 
-### [Jujuy.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.private.md) 
+### [Jujuy.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.protect.md) 
 
-### [Jujuy.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.personal.md) 
+### [Jujuy.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.private.md) 
 
-### [Jujuy.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaJujuy.secret.md)
+### [Jujuy.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.personal.md) 
+
+### [Jujuy.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Jujuy.secret.md)
 

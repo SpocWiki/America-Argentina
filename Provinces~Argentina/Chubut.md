@@ -41,15 +41,17 @@ markerFolder: ./Chubut/
 
 ## Confidential Links & Embeds: 
 
-### [Chubut.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.public.md) 
+### [Chubut](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.md) 
 
-### [Chubut.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.internal.md) 
+### [Chubut.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.public.md) 
 
-### [Chubut.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.protect.md) 
+### [Chubut.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.internal.md) 
 
-### [Chubut.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.private.md) 
+### [Chubut.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.protect.md) 
 
-### [Chubut.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.personal.md) 
+### [Chubut.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.private.md) 
 
-### [Chubut.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChubut.secret.md)
+### [Chubut.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.personal.md) 
+
+### [Chubut.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.secret.md)
 

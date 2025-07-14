@@ -41,15 +41,17 @@ markerFolder: ./Formosa/
 
 ## Confidential Links & Embeds: 
 
-### [Formosa.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.public.md) 
+### [Formosa](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.md) 
 
-### [Formosa.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.internal.md) 
+### [Formosa.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.public.md) 
 
-### [Formosa.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.protect.md) 
+### [Formosa.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.internal.md) 
 
-### [Formosa.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.private.md) 
+### [Formosa.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.protect.md) 
 
-### [Formosa.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.personal.md) 
+### [Formosa.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.private.md) 
 
-### [Formosa.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.secret.md)
+### [Formosa.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.personal.md) 
+
+### [Formosa.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Formosa.secret.md)
 

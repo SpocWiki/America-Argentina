@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\ArgentinaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Argentina/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\ArgentinaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Argentina/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\ArgentinaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Argentina/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\ArgentinaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Argentina/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\ArgentinaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Argentina/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\ArgentinaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Argentina/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Argentina/License.secret.md)
 

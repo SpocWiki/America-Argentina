@@ -41,15 +41,17 @@ markerFolder: ./San_Luis/
 
 ## Confidential Links & Embeds: 
 
-### [San_Luis.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.public.md) 
+### [San_Luis](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.md) 
 
-### [San_Luis.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.internal.md) 
+### [San_Luis.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.public.md) 
 
-### [San_Luis.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.protect.md) 
+### [San_Luis.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.internal.md) 
 
-### [San_Luis.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.private.md) 
+### [San_Luis.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.protect.md) 
 
-### [San_Luis.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.personal.md) 
+### [San_Luis.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.private.md) 
 
-### [San_Luis.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.secret.md)
+### [San_Luis.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.personal.md) 
+
+### [San_Luis.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.secret.md)
 

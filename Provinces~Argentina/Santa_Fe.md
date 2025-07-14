@@ -41,15 +41,17 @@ markerFolder: ./Santa_Fe/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Fe.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.public.md) 
+### [Santa_Fe](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.md) 
 
-### [Santa_Fe.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.internal.md) 
+### [Santa_Fe.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.public.md) 
 
-### [Santa_Fe.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.protect.md) 
+### [Santa_Fe.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.internal.md) 
 
-### [Santa_Fe.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.private.md) 
+### [Santa_Fe.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.protect.md) 
 
-### [Santa_Fe.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.personal.md) 
+### [Santa_Fe.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.private.md) 
 
-### [Santa_Fe.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.secret.md)
+### [Santa_Fe.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.personal.md) 
+
+### [Santa_Fe.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.secret.md)
 

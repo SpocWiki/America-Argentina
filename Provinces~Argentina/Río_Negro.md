@@ -41,15 +41,17 @@ markerFolder: ./Río_Negro/
 
 ## Confidential Links & Embeds: 
 
-### [Río_Negro.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.public.md) 
+### [Río_Negro](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.md) 
 
-### [Río_Negro.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.internal.md) 
+### [Río_Negro.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.public.md) 
 
-### [Río_Negro.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.protect.md) 
+### [Río_Negro.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.internal.md) 
 
-### [Río_Negro.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.private.md) 
+### [Río_Negro.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.protect.md) 
 
-### [Río_Negro.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.personal.md) 
+### [Río_Negro.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.private.md) 
 
-### [Río_Negro.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaRío_Negro.secret.md)
+### [Río_Negro.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.personal.md) 
+
+### [Río_Negro.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.secret.md)
 

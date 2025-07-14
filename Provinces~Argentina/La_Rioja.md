@@ -41,15 +41,17 @@ markerFolder: ./La_Rioja/
 
 ## Confidential Links & Embeds: 
 
-### [La_Rioja.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.public.md) 
+### [La_Rioja](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.md) 
 
-### [La_Rioja.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.internal.md) 
+### [La_Rioja.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.public.md) 
 
-### [La_Rioja.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.protect.md) 
+### [La_Rioja.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.internal.md) 
 
-### [La_Rioja.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.private.md) 
+### [La_Rioja.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.protect.md) 
 
-### [La_Rioja.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.personal.md) 
+### [La_Rioja.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.private.md) 
 
-### [La_Rioja.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Rioja.secret.md)
+### [La_Rioja.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.personal.md) 
+
+### [La_Rioja.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Rioja.secret.md)
 

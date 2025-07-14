@@ -51,15 +51,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buenos_Aires,City.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.public.md) 
+### [Buenos_Aires,City](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.md) 
 
-### [Buenos_Aires,City.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.internal.md) 
+### [Buenos_Aires,City.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.public.md) 
 
-### [Buenos_Aires,City.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.protect.md) 
+### [Buenos_Aires,City.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.internal.md) 
 
-### [Buenos_Aires,City.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.private.md) 
+### [Buenos_Aires,City.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.protect.md) 
 
-### [Buenos_Aires,City.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.personal.md) 
+### [Buenos_Aires,City.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.private.md) 
 
-### [Buenos_Aires,City.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.secret.md)
+### [Buenos_Aires,City.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.personal.md) 
+
+### [Buenos_Aires,City.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/City/Buenos_Aires,City.secret.md)
 

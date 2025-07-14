@@ -41,15 +41,17 @@ markerFolder: ./Santiago_del_Estero/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago_del_Estero.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.public.md) 
+### [Santiago_del_Estero](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.md) 
 
-### [Santiago_del_Estero.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.internal.md) 
+### [Santiago_del_Estero.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.public.md) 
 
-### [Santiago_del_Estero.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.protect.md) 
+### [Santiago_del_Estero.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.internal.md) 
 
-### [Santiago_del_Estero.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.private.md) 
+### [Santiago_del_Estero.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.protect.md) 
 
-### [Santiago_del_Estero.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.personal.md) 
+### [Santiago_del_Estero.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.private.md) 
 
-### [Santiago_del_Estero.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSantiago_del_Estero.secret.md)
+### [Santiago_del_Estero.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.personal.md) 
+
+### [Santiago_del_Estero.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.secret.md)
 

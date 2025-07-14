@@ -41,15 +41,17 @@ markerFolder: ./Ciudad_de_Buenos_Aires/
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_de_Buenos_Aires.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.public.md) 
+### [Ciudad_de_Buenos_Aires](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.md) 
 
-### [Ciudad_de_Buenos_Aires.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.internal.md) 
+### [Ciudad_de_Buenos_Aires.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.public.md) 
 
-### [Ciudad_de_Buenos_Aires.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.protect.md) 
+### [Ciudad_de_Buenos_Aires.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.internal.md) 
 
-### [Ciudad_de_Buenos_Aires.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.private.md) 
+### [Ciudad_de_Buenos_Aires.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.protect.md) 
 
-### [Ciudad_de_Buenos_Aires.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.personal.md) 
+### [Ciudad_de_Buenos_Aires.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.private.md) 
 
-### [Ciudad_de_Buenos_Aires.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCiudad_de_Buenos_Aires.secret.md)
+### [Ciudad_de_Buenos_Aires.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.personal.md) 
+
+### [Ciudad_de_Buenos_Aires.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Neuquén/
 
 ## Confidential Links & Embeds: 
 
-### [Neuquén.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.public.md) 
+### [Neuquén](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.md) 
 
-### [Neuquén.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.internal.md) 
+### [Neuquén.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.public.md) 
 
-### [Neuquén.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.protect.md) 
+### [Neuquén.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.internal.md) 
 
-### [Neuquén.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.private.md) 
+### [Neuquén.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.protect.md) 
 
-### [Neuquén.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.personal.md) 
+### [Neuquén.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.private.md) 
 
-### [Neuquén.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaNeuquén.secret.md)
+### [Neuquén.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.personal.md) 
+
+### [Neuquén.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Corrientes/
 
 ## Confidential Links & Embeds: 
 
-### [Corrientes.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.public.md) 
+### [Corrientes](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.md) 
 
-### [Corrientes.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.internal.md) 
+### [Corrientes.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.public.md) 
 
-### [Corrientes.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.protect.md) 
+### [Corrientes.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.internal.md) 
 
-### [Corrientes.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.private.md) 
+### [Corrientes.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.protect.md) 
 
-### [Corrientes.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.personal.md) 
+### [Corrientes.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.private.md) 
 
-### [Corrientes.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.secret.md)
+### [Corrientes.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.personal.md) 
+
+### [Corrientes.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Corrientes.secret.md)
 

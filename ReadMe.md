@@ -140,15 +140,17 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\ArgentinaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Argentina/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\ArgentinaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Argentina/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\ArgentinaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Argentina/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\ArgentinaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Argentina/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\ArgentinaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Argentina/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\ArgentinaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Argentina/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Argentina/ReadMe.secret.md)
 

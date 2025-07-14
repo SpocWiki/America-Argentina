@@ -41,15 +41,17 @@ markerFolder: ./Buenos_Aires,Province/
 
 ## Confidential Links & Embeds: 
 
-### [Buenos_Aires,Province.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.public.md) 
+### [Buenos_Aires,Province](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.md) 
 
-### [Buenos_Aires,Province.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.internal.md) 
+### [Buenos_Aires,Province.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.public.md) 
 
-### [Buenos_Aires,Province.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.protect.md) 
+### [Buenos_Aires,Province.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.internal.md) 
 
-### [Buenos_Aires,Province.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.private.md) 
+### [Buenos_Aires,Province.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.protect.md) 
 
-### [Buenos_Aires,Province.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.personal.md) 
+### [Buenos_Aires,Province.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.private.md) 
 
-### [Buenos_Aires,Province.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.secret.md)
+### [Buenos_Aires,Province.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.personal.md) 
+
+### [Buenos_Aires,Province.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.secret.md)
 
