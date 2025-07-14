@@ -48,11 +48,18 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buenos%20Aires) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/City/Buenos_Aires,City|Buenos_Aires,City]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.public|Buenos_Aires,City.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.internal|Buenos_Aires,City.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.protect|Buenos_Aires,City.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.private|Buenos_Aires,City.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.personal|Buenos_Aires,City.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/City/Buenos_Aires,City.secret|Buenos_Aires,City.secret]] 
+
+### [Buenos_Aires,City.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.public.md) 
+
+### [Buenos_Aires,City.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.internal.md) 
+
+### [Buenos_Aires,City.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.protect.md) 
+
+### [Buenos_Aires,City.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.private.md) 
+
+### [Buenos_Aires,City.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.personal.md) 
+
+### [Buenos_Aires,City.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Ciudad_de_Buenos_Aires\CityBuenos_Aires,City.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./San_Juan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/San_Juan|San_Juan]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/San_Juan.public|San_Juan.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/San_Juan.internal|San_Juan.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/San_Juan.protect|San_Juan.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/San_Juan.private|San_Juan.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/San_Juan.personal|San_Juan.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/San_Juan.secret|San_Juan.secret]] 
+
+### [San_Juan.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.public.md) 
+
+### [San_Juan.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.internal.md) 
+
+### [San_Juan.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.protect.md) 
+
+### [San_Juan.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.private.md) 
+
+### [San_Juan.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.personal.md) 
+
+### [San_Juan.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Juan.secret.md)
 

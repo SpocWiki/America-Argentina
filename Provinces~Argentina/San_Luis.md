@@ -40,11 +40,16 @@ markerFolder: ./San_Luis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/San_Luis|San_Luis]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/San_Luis.public|San_Luis.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/San_Luis.internal|San_Luis.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/San_Luis.protect|San_Luis.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/San_Luis.private|San_Luis.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/San_Luis.personal|San_Luis.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/San_Luis.secret|San_Luis.secret]] 
+
+### [San_Luis.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.public.md) 
+
+### [San_Luis.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.internal.md) 
+
+### [San_Luis.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.protect.md) 
+
+### [San_Luis.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.private.md) 
+
+### [San_Luis.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.personal.md) 
+
+### [San_Luis.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSan_Luis.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Corrientes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Corrientes|Corrientes]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Corrientes.public|Corrientes.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Corrientes.internal|Corrientes.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Corrientes.protect|Corrientes.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Corrientes.private|Corrientes.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Corrientes.personal|Corrientes.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Corrientes.secret|Corrientes.secret]] 
+
+### [Corrientes.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.public.md) 
+
+### [Corrientes.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.internal.md) 
+
+### [Corrientes.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.protect.md) 
+
+### [Corrientes.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.private.md) 
+
+### [Corrientes.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.personal.md) 
+
+### [Corrientes.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCorrientes.secret.md)
 

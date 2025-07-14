@@ -40,11 +40,16 @@ markerFolder: ./Córdoba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Córdoba|Córdoba]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Córdoba.public|Córdoba.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Córdoba.internal|Córdoba.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Córdoba.protect|Córdoba.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Córdoba.private|Córdoba.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Córdoba.personal|Córdoba.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Córdoba.secret|Córdoba.secret]] 
+
+### [Córdoba.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.public.md) 
+
+### [Córdoba.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.internal.md) 
+
+### [Córdoba.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.protect.md) 
+
+### [Córdoba.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.private.md) 
+
+### [Córdoba.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.personal.md) 
+
+### [Córdoba.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCórdoba.secret.md)
 

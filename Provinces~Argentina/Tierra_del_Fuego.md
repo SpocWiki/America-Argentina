@@ -40,11 +40,16 @@ markerFolder: ./Tierra_del_Fuego/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego|Tierra_del_Fuego]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.public|Tierra_del_Fuego.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.internal|Tierra_del_Fuego.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.protect|Tierra_del_Fuego.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.private|Tierra_del_Fuego.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.personal|Tierra_del_Fuego.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.secret|Tierra_del_Fuego.secret]] 
+
+### [Tierra_del_Fuego.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.public.md) 
+
+### [Tierra_del_Fuego.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.internal.md) 
+
+### [Tierra_del_Fuego.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.protect.md) 
+
+### [Tierra_del_Fuego.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.private.md) 
+
+### [Tierra_del_Fuego.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.personal.md) 
+
+### [Tierra_del_Fuego.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTierra_del_Fuego.secret.md)
 

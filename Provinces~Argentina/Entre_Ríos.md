@@ -40,11 +40,16 @@ markerFolder: ./Entre_Ríos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Entre_Ríos|Entre_Ríos]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.public|Entre_Ríos.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.internal|Entre_Ríos.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.protect|Entre_Ríos.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.private|Entre_Ríos.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.personal|Entre_Ríos.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Entre_Ríos.secret|Entre_Ríos.secret]] 
+
+### [Entre_Ríos.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.public.md) 
+
+### [Entre_Ríos.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.internal.md) 
+
+### [Entre_Ríos.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.protect.md) 
+
+### [Entre_Ríos.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.private.md) 
+
+### [Entre_Ríos.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.personal.md) 
+
+### [Entre_Ríos.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaEntre_Ríos.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Chaco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Chaco|Chaco]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Chaco.public|Chaco.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Chaco.internal|Chaco.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Chaco.protect|Chaco.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Chaco.private|Chaco.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Chaco.personal|Chaco.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Chaco.secret|Chaco.secret]] 
+
+### [Chaco.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.public.md) 
+
+### [Chaco.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.internal.md) 
+
+### [Chaco.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.protect.md) 
+
+### [Chaco.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.private.md) 
+
+### [Chaco.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.personal.md) 
+
+### [Chaco.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaChaco.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Buenos_Aires,Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province|Buenos_Aires,Province]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.public|Buenos_Aires,Province.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.internal|Buenos_Aires,Province.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.protect|Buenos_Aires,Province.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.private|Buenos_Aires,Province.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.personal|Buenos_Aires,Province.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Buenos_Aires,Province.secret|Buenos_Aires,Province.secret]] 
+
+### [Buenos_Aires,Province.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.public.md) 
+
+### [Buenos_Aires,Province.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.internal.md) 
+
+### [Buenos_Aires,Province.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.protect.md) 
+
+### [Buenos_Aires,Province.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.private.md) 
+
+### [Buenos_Aires,Province.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.personal.md) 
+
+### [Buenos_Aires,Province.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaBuenos_Aires,Province.secret.md)
 

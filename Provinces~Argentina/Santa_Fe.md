@@ -40,11 +40,16 @@ markerFolder: ./Santa_Fe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Santa_Fe|Santa_Fe]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Santa_Fe.public|Santa_Fe.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.internal|Santa_Fe.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Santa_Fe.protect|Santa_Fe.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Santa_Fe.private|Santa_Fe.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.personal|Santa_Fe.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Santa_Fe.secret|Santa_Fe.secret]] 
+
+### [Santa_Fe.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.public.md) 
+
+### [Santa_Fe.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.internal.md) 
+
+### [Santa_Fe.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.protect.md) 
+
+### [Santa_Fe.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.private.md) 
+
+### [Santa_Fe.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.personal.md) 
+
+### [Santa_Fe.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaSanta_Fe.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./La_Pampa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/La_Pampa|La_Pampa]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/La_Pampa.public|La_Pampa.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/La_Pampa.internal|La_Pampa.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/La_Pampa.protect|La_Pampa.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/La_Pampa.private|La_Pampa.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/La_Pampa.personal|La_Pampa.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/La_Pampa.secret|La_Pampa.secret]] 
+
+### [La_Pampa.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.public.md) 
+
+### [La_Pampa.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.internal.md) 
+
+### [La_Pampa.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.protect.md) 
+
+### [La_Pampa.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.private.md) 
+
+### [La_Pampa.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.personal.md) 
+
+### [La_Pampa.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaLa_Pampa.secret.md)
 

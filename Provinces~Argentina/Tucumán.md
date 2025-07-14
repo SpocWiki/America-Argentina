@@ -40,11 +40,16 @@ markerFolder: ./Tucumán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Tucumán|Tucumán]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Tucumán.public|Tucumán.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tucumán.internal|Tucumán.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tucumán.protect|Tucumán.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Tucumán.private|Tucumán.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tucumán.personal|Tucumán.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tucumán.secret|Tucumán.secret]] 
+
+### [Tucumán.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.public.md) 
+
+### [Tucumán.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.internal.md) 
+
+### [Tucumán.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.protect.md) 
+
+### [Tucumán.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.private.md) 
+
+### [Tucumán.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.personal.md) 
+
+### [Tucumán.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaTucumán.secret.md)
 

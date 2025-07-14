@@ -40,11 +40,16 @@ markerFolder: ./Misiones/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Misiones|Misiones]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Misiones.public|Misiones.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Misiones.internal|Misiones.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Misiones.protect|Misiones.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Misiones.private|Misiones.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Misiones.personal|Misiones.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Misiones.secret|Misiones.secret]] 
+
+### [Misiones.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.public.md) 
+
+### [Misiones.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.internal.md) 
+
+### [Misiones.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.protect.md) 
+
+### [Misiones.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.private.md) 
+
+### [Misiones.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.personal.md) 
+
+### [Misiones.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaMisiones.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Neuquén/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.public.md) 
+
+### [_Lakes.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.internal.md) 
+
+### [_Lakes.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.protect.md) 
+
+### [_Lakes.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.private.md) 
+
+### [_Lakes.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~Argentina\Neuquén_Lakes.secret.md)
 

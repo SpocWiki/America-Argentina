@@ -40,11 +40,16 @@ markerFolder: ./Formosa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Formosa|Formosa]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Formosa.public|Formosa.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Formosa.internal|Formosa.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Formosa.protect|Formosa.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Formosa.private|Formosa.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Formosa.personal|Formosa.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Formosa.secret|Formosa.secret]] 
+
+### [Formosa.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.public.md) 
+
+### [Formosa.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.internal.md) 
+
+### [Formosa.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.protect.md) 
+
+### [Formosa.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.private.md) 
+
+### [Formosa.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.personal.md) 
+
+### [Formosa.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaFormosa.secret.md)
 

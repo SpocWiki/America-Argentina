@@ -40,11 +40,16 @@ markerFolder: ./Catamarca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Catamarca|Catamarca]] 
-- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Catamarca.public|Catamarca.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Catamarca.internal|Catamarca.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Catamarca.protect|Catamarca.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Catamarca.private|Catamarca.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Catamarca.personal|Catamarca.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Catamarca.secret|Catamarca.secret]] 
+
+### [Catamarca.public](/_public/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.public.md) 
+
+### [Catamarca.internal](/_internal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.internal.md) 
+
+### [Catamarca.protect](/_protect/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.protect.md) 
+
+### [Catamarca.private](/_private/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.private.md) 
+
+### [Catamarca.personal](/_personal/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.personal.md) 
+
+### [Catamarca.secret](/_secret/\Earth\Continent\America~South\Argentina\Provinces~ArgentinaCatamarca.secret.md)
 
