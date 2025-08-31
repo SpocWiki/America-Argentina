@@ -14,6 +14,8 @@ tags:
   - geo/Country/Region
 aliases:
   - Río_Negro
+  - Rio Negro
+  - Rio_Negro
 Languages:
   - de
 cssclasses:
@@ -26,7 +28,10 @@ publishDate:
 expiryDate:
 ---
 
-# Río_Negro
+# [[Río_Negro]]
+
+
+## #has_/map 
 
 ```leaflet
 id: Río_Negro
