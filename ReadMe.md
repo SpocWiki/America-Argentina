@@ -125,11 +125,11 @@ Continent :: [[South-America]]
 [VehicleCode::RA] 
 Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]  
 
-![[Argentina/Coat_of_arms_of_Argentina.svg|350]] 
+![[Coat_of_arms_of_Argentina.svg|350]] 
 
 ![[../../../xLarge/National-Anthem/Anthem-Argentina.mp3]] 
 
-![[Argentina/Flag_of_Argentina.svg|350]] 
+![[Flag_of_Argentina.svg|350]] 
 
 [Alcohol-l::10] 
 [Language-Id::492] 

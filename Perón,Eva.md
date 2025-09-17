@@ -73,7 +73,7 @@ date_of_birth: 1919-05-07T00:00:00Z
 
 # [[Perón,Eva]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]] 
 
 ## #has_/text_of_/abstract 
 
