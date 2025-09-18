@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Tierra_del_Fuego
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tierra_del_Fuego/
 markerFolder: ./Tierra_del_Fuego/

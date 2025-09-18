@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santa_Fe
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santa_Fe/
 markerFolder: ./Santa_Fe/

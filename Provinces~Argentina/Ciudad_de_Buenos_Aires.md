@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ciudad_de_Buenos_Aires
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ciudad_de_Buenos_Aires/
 markerFolder: ./Ciudad_de_Buenos_Aires/

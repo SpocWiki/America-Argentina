@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Entre_Ríos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Entre_Ríos/
 markerFolder: ./Entre_Ríos/

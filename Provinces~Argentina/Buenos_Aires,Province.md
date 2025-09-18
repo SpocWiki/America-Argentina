@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Buenos_Aires,Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Buenos_Aires,Province/
 markerFolder: ./Buenos_Aires,Province/

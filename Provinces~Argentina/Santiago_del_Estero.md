@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santiago_del_Estero
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santiago_del_Estero/
 markerFolder: ./Santiago_del_Estero/
