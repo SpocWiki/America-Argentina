@@ -245,7 +245,7 @@ State ::
 Country :: [[../../../../Argentina]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]] 
 
