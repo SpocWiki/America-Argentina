@@ -16,6 +16,7 @@ aliases:
   - Río_Negro
   - Rio Negro
   - Rio_Negro
+  - Río Negro
 Languages:
   - de
 cssclasses:
@@ -28,8 +29,7 @@ publishDate:
 expiryDate:
 ---
 
-# [[Río_Negro]]
-
+# [[Río_Negro,Province]]
 
 ## #has_/map 
 
@@ -38,8 +38,8 @@ id: Río_Negro
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Río_Negro/
-markerFolder: ./Río_Negro/
+geojsonFolder: ./Río_Negro,Province//
+markerFolder: ./Río_Negro,Province/
 ```
 
 
