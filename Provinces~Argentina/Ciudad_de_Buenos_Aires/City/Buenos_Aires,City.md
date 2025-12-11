@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Buenos Aires
 location:
   - -34.62
   - -58.41
@@ -7,14 +9,25 @@ mapzoom:
   - 12
 mapmarker: city
 type: City
+title: Ciudad_de_Buenos_Aires
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+cssclasses:
+  - geo-Region
+publish: true
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 tags:
   - geo/City
 SpocWebEntityId: 29402
-isDeleted: false
-confidential: public
 has_id_wikidata: Q1486
-aliases:
-  - Buenos Aires
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Ramallah,158119]]"
   - "[[_Standards/WikiData/WD~Guadix,244324]]"
@@ -250,10 +263,14 @@ Country :: [[../../../../Argentina]]
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]] 
 
 ```leaflet
-id: Buenos Aires
+id: Ciudad_de_Buenos_Aires
+zoomFeatures: true 
 coordinates: [[Buenos_Aires,City]] 
 markerFile: [[Buenos_Aires,City]] 
+geojsonFolder: ./Buenos_Aires,City/
+markerFolder: ./Buenos_Aires,City/
 defaultZoom: 11 
+minZoom: 4 
 maxZoom: 18
 ```
 
