@@ -247,7 +247,7 @@ nickname:
 native_label: Ciudad Autónoma de Buenos Aires
 ---
 
-# [[Buenos_Aires,City]] 
+# [[Ciudad_de_Buenos_Aires]] 
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
@@ -264,45 +264,65 @@ Country :: [[../../../../Argentina]]
 
 ```leaflet
 id: Ciudad_de_Buenos_Aires
-zoomFeatures: true 
-coordinates: [[Buenos_Aires,City]] 
-markerFile: [[Buenos_Aires,City]] 
-geojsonFolder: ./Buenos_Aires,City/
-markerFolder: ./Buenos_Aires,City/
+zoomFeatures: false 
+coordinates: [[Ciudad_de_Buenos_Aires]] 
+markerFile: [[Ciudad_de_Buenos_Aires]] 
+geojsonFolder: ./Ciudad_de_Buenos_Aires/
+markerFolder: ./Ciudad_de_Buenos_Aires/
 defaultZoom: 11 
 minZoom: 4 
 maxZoom: 18
 ```
 
-
 ## #has_/text_of_/abstract 
 
-> Buenos Aires ( or ; Spanish pronunciation: ['bwenos 'aj?es] ) 
+> **Buenos Aires**, officially the Autonomous City of Buenos Aires, 
 > is the capital and largest city of Argentina. 
+> It is located on the southwest of the Río de la Plata. 
 > 
-> It is located on the southwest of the R�o de la Plata. 
-> "Buenos aires" is Spanish for "good airs" or "fair winds".
->  Buenos Aires is classified as an Alpha- global city, 
->  according to the Globalization and World Cities Research Network (GaWC) 2024 ranking. 
->  The city proper has a population of 3.1 million and its urban area 16.7 million, 
->  making it the fourteenth largest metropolitan area in the world.
+> Buenos Aires is classified as an Alpha− global city, 
+> according to the GaWC 2024 ranking. 
+> 
+> The city proper has a population of 3.1 million 
+> and its urban area has a population of 16.7 million, 
+> making it the twentieth largest metropolitan area in the world.
 >
-> The proper city of Buenos Aires is neither part of Buenos Aires Province 
-> nor its capital; it is an autonomous district. 
+> It is known for its preserved eclectic European architecture and rich cultural life. 
+> It is a multicultural city that is home to multiple ethnic and religious groups, 
+> contributing to its culture as well as to the dialect spoken in the city 
+> and in some other parts of the country. 
 > 
-> In 1880, after the Argentine Civil War, 
-> Buenos Aires was federalized and split from Buenos Aires Province. 
-> The city limits were enlarged to include the towns of Belgrano and Flores; 
+> Since the 19th century, the city, and the country in general, 
+> has been a major recipient of millions of immigrants from all over the world, 
+> making it a melting pot where several ethnic groups live together. 
+> 
+> Buenos Aires is considered one of the most diverse cities of the Americas.
+>
+> The city of Buenos Aires is neither part of Buenos Aires Province nor its capital. 
+> It is an autonomous district. 
+> 
+> In 1880, after the Argentine Civil War, Buenos Aires was federalized 
+> and split from Buenos Aires Province. 
+> 
+> The city limits were enlarged to include the towns of Belgrano and Flores, 
 > both now neighborhoods of the city. 
 > 
 > The 1994 constitutional amendment granted the city autonomy, 
 > hence its formal name of Autonomous City of Buenos Aires. 
-> Thus, citizens elected their first Chief of Government in 1996; 
-> previously, the Mayor was directly appointed by the President of Argentina.
+> Citizens elected their first Chief of Government in 1996. 
+> Previously, the Mayor was directly appointed by the President of Argentina.
 >
-> The Greater Buenos Aires conurbation includes several surrounding cities, which are located in the neighbouring districts of the Buenos Aires Province. It constitutes the fourth-most populous metropolitan area in the Americas. It is also the second largest city south of the Tropic of Capricorn. Buenos Aires has the highest human development of all Argentine administrative divisions and its quality of life was ranked 91st in the world in 2018, being one of the best in Latin America.
->
-> It is known for its preserved eclectic European architecture and rich cultural life. It is a multicultural city that is home to multiple ethnic and religious groups, contributing to its culture as well as to the dialect spoken in the city and in some other parts of the country. This is because since the 19th century, the city, and the country in general, has been a major recipient of millions of immigrants from all over the world, making it a melting pot where several ethnic groups live together. Thus, Buenos Aires is considered one of the most diverse cities of the Americas.
+> The Greater Buenos Aires conurbation includes several surrounding cities, 
+> which are located in the neighbouring districts of the Buenos Aires Province. 
+> 
+> It constitutes the fourth-most populous metropolitan area in the Americas. 
+> It is also the second largest city south of the Tropic of Capricorn. 
+> 
+> Buenos Aires has the highest human development 
+> of all Argentine administrative divisions. 
+> 
+> Its quality of life was ranked 97th in the world in 2024, 
+> being one of the best in Latin America.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buenos%20Aires) 
 
