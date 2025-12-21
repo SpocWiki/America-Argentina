@@ -2,14 +2,15 @@
 aliases:
   - Patagonian Desert
   - Patagonian Steppe
+  - Patagonian_Desert
 has_id_wikidata: Q1061324
-highest_point: "[[_Standards/WikiData/WD~Domuyo,312770]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Veinticinco_de_Mayo_Department,_Río_Negro,1191263]]"
+highest_point: '[[_Standards/WikiData/WD~Domuyo,312770]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Veinticinco_de_Mayo_Department,_Río_Negro,1191263]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
-  - "[[_Standards/WikiData/WD~desert,8514]]"
+  - '[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]'
+  - '[[_Standards/WikiData/WD~desert,8514]]'
 coordinate_location: Point(-69.32 -41.32)
-country: "[[_Standards/WikiData/WD~Argentina,414]]"
+country: '[[_Standards/WikiData/WD~Argentina,414]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecoregion%20NT0805.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neuquen%20river%201.jpg
 WWF_ecoregion_code: NT0805

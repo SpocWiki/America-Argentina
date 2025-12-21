@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santiago_del_Estero
+  - Santiago del Estero
 location:
   - -27.8
   - -63.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santiago_del_Estero
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santiago_del_Estero

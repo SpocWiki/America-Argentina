@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Argentina
+  - Argentine
+  - الأرجنتين
+  - 阿根廷
+  - Аргентина
+  - the Argentine Republic
+  - la República Argentina
+  - Argentina (la)
+  - ReadMe
 location:
   - -34.62
   - -58.41
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Argentina
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Argentina
-  - Argentine
-  - الأرجنتين
-  - 阿根廷
-  - Аргентина
-  - the Argentine Republic
-  - la República Argentina
-  - Argentina (la)
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-AR
   - en

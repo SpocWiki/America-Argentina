@@ -3,6 +3,7 @@ aliases:
   - Tierra_del_Fuego
   - Feuerland
   - Fireland
+  - Tierra del Fuego
 has_id_wikidata: Q82601
 location:
   - -53.8
@@ -22,11 +23,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Tierra_del_Fuego]]

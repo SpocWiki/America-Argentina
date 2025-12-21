@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Buenos_Aires
+  - Buenos_Aires,Province
+  - Buenos Aires,Province
 location:
   - -37.1
   - -60.1
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Buenos_Aires
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Buenos_Aires,Province]] 

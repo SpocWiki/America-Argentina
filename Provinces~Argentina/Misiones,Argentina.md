@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Misiones
+  - Misiones,Argentina
 location:
   - -26.8
   - -54.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Misiones
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Misiones,Argentina]] 

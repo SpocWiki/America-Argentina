@@ -1,35 +1,39 @@
 ---
 aliases:
-  - "University of Buenos Aires (Spanish: Universidad de Buenos Aires"
+  - 'University of Buenos Aires (Spanish: Universidad de Buenos Aires'
+  - University_of_Buenos_Aires
+  - University of Buenos Aires
 has_id_wikidata: Q194223
-location: [-34.599722222, -58.373055555]
+location:
+  - -34.599722222
+  - -58.373055555
 coordinate_location: Point(-58.373055555 -34.599722222)
 founded_by:
-  - "[[_Standards/WikiData/WD~Bernardino_Rivadavia,188891]]"
-  - "[[_Standards/WikiData/WD~Martín_Rodríguez,280554]]"
+  - '[[_Standards/WikiData/WD~Bernardino_Rivadavia,188891]]'
+  - '[[_Standards/WikiData/WD~Martín_Rodríguez,280554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~public_university,875538]]"
-  - "[[_Standards/WikiData/WD~open_access_publisher,45400320]]"
+  - '[[_Standards/WikiData/WD~public_university,875538]]'
+  - '[[_Standards/WikiData/WD~open_access_publisher,45400320]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Faculty_of_Medical_Sciences,_University_of_Buenos_Aires,2887413]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Exact_and_Natural_Sciences,5428851]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Agronomy,_University_of_Buenos_Aires,5854514]]"
-  - "[[_Standards/WikiData/WD~School_of_Architecture,_Design_and_Urbanism,5854525]]"
-  - "[[_Standards/WikiData/WD~Economics_Faculty,_University_of_Buenos_Aires,5854627]]"
-  - "[[_Standards/WikiData/WD~Facultad_de_Ciencias_Sociales,5854733]]"
-  - "[[_Standards/WikiData/WD~Universidad_de_Buenos_Aires._Facultad_de_Ciencias_Veterinarias,5854750]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Pharmacy_and_Biochemistry,_University_of_Buenos_Aires,5854893]]"
-  - "[[_Standards/WikiData/WD~Facultad_de_Filosofía_y_Letras_de_la_Universidad_de_Buenos_Aires,5854907]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Engineering,_University_of_Buenos_Aires,5854965]]"
-  - "[[_Standards/WikiData/WD~Universidad_de_Buenos_Aires._Facultad_de_Odontología,5855114]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Psychology,_University_of_Buenos_Aires,5855136]]"
-  - "[[_Standards/WikiData/WD~Faculty_of_Law,_Universidad_de_Buenos_Aires,6403386]]"
-rector: "[[_Standards/WikiData/WD~Ricardo_Gelpi,112692341]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
-part_of: "[[_Standards/WikiData/WD~Red_Sara,117787599]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Q136052401,136052401]]"
-country: "[[_Standards/WikiData/WD~Argentina,414]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
+  - '[[_Standards/WikiData/WD~Faculty_of_Medical_Sciences,_University_of_Buenos_Aires,2887413]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Exact_and_Natural_Sciences,5428851]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Agronomy,_University_of_Buenos_Aires,5854514]]'
+  - '[[_Standards/WikiData/WD~School_of_Architecture,_Design_and_Urbanism,5854525]]'
+  - '[[_Standards/WikiData/WD~Economics_Faculty,_University_of_Buenos_Aires,5854627]]'
+  - '[[_Standards/WikiData/WD~Facultad_de_Ciencias_Sociales,5854733]]'
+  - '[[_Standards/WikiData/WD~Universidad_de_Buenos_Aires._Facultad_de_Ciencias_Veterinarias,5854750]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Pharmacy_and_Biochemistry,_University_of_Buenos_Aires,5854893]]'
+  - '[[_Standards/WikiData/WD~Facultad_de_Filosofía_y_Letras_de_la_Universidad_de_Buenos_Aires,5854907]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Engineering,_University_of_Buenos_Aires,5854965]]'
+  - '[[_Standards/WikiData/WD~Universidad_de_Buenos_Aires._Facultad_de_Odontología,5855114]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Psychology,_University_of_Buenos_Aires,5855136]]'
+  - '[[_Standards/WikiData/WD~Faculty_of_Law,_Universidad_de_Buenos_Aires,6403386]]'
+rector: '[[_Standards/WikiData/WD~Ricardo_Gelpi,112692341]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
+part_of: '[[_Standards/WikiData/WD~Red_Sara,117787599]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Q136052401,136052401]]'
+country: '[[_Standards/WikiData/WD~Argentina,414]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
 elevation_above_sea_level: 32
 member_count: 28232
 social_media_followers: 124725
@@ -40,7 +44,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20Facultad%20d
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/UBA.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Uba%20univ%20bsas%20logo.png
 official_website: https://www.uba.ar/
-ISNI: "0000000100561981"
+ISNI: 0000000100561981
 Wolfram_Language_entity_code: Entity["University", "UniversidadDeBuenosAires::6ch8r"]
 X_Twitter_username: ubaonline
 Commons_Institution_page: Universidad de Buenos Aires

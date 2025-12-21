@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Río_Negro
+  - Rio Negro
+  - Rio_Negro
+  - Río Negro
+  - Río_Negro,Province
+  - Río Negro,Province
 location:
   - -39.8
   - -66.4
@@ -12,21 +19,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Río_Negro
-  - Rio Negro
-  - Rio_Negro
-  - Río Negro
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Río_Negro,Province]]
