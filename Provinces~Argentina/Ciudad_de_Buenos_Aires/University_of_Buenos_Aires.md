@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1821-08-12 
 aliases:
   - 'University of Buenos Aires (Spanish: Universidad de Buenos Aires'
   - University_of_Buenos_Aires
