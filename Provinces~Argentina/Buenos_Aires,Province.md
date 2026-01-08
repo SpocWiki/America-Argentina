@@ -42,17 +42,17 @@ markerFolder: ./Buenos_Aires,Province/
 
 ## Confidential Links & Embeds: 
 
-### [Buenos_Aires,Province](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province|Buenos_Aires,Province]] 
 
-### [Buenos_Aires,Province.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.public|Buenos_Aires,Province.public]] 
 
-### [Buenos_Aires,Province.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.internal|Buenos_Aires,Province.internal]] 
 
-### [Buenos_Aires,Province.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.protect|Buenos_Aires,Province.protect]] 
 
-### [Buenos_Aires,Province.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.private|Buenos_Aires,Province.private]] 
 
-### [Buenos_Aires,Province.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.personal|Buenos_Aires,Province.personal]] 
 
-### [Buenos_Aires,Province.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Buenos_Aires,Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Buenos_Aires,Province.secret|Buenos_Aires,Province.secret]] 
 

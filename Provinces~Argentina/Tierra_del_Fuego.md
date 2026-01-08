@@ -23,17 +23,22 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Tierra_del_Fuego,82601|WD~Tierra_del_Fuego,82601]]"
+  similar_to: "[[../../Chile/regions~Chile/Magallanes_y_Antártica_Chilena|Magallanes_y_Antártica_Chilena]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Tierra_del_Fuego,82601|WD~Tierra_del_Fuego,82601]]"
+dv_is_similar_to: "[[../../Chile/regions~Chile/Magallanes_y_Antártica_Chilena|Magallanes_y_Antártica_Chilena]]"
 ---
 
 # [[Tierra_del_Fuego]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Tierra_del_Fuego,82601|WD~Tierra_del_Fuego,82601]] 
-#is_/similar_to :: [[../../Chile/regions~Chile/Magallanes_y_Antártica_Chilena|Magallanes_y_Antártica_Chilena]] 
+is_same_as = `=this.dv_is_same_as`
+is_similar_to = `=this.dv_is_similar_to`
 ## #has_/map 
 
 ```leaflet
@@ -81,17 +86,17 @@ markerFolder: ./Tierra_del_Fuego/
 
 ## Confidential Links & Embeds: 
 
-### [Tierra_del_Fuego](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego|Tierra_del_Fuego]] 
 
-### [Tierra_del_Fuego.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.public|Tierra_del_Fuego.public]] 
 
-### [Tierra_del_Fuego.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.internal|Tierra_del_Fuego.internal]] 
 
-### [Tierra_del_Fuego.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.protect|Tierra_del_Fuego.protect]] 
 
-### [Tierra_del_Fuego.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.private|Tierra_del_Fuego.private]] 
 
-### [Tierra_del_Fuego.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.personal|Tierra_del_Fuego.personal]] 
 
-### [Tierra_del_Fuego.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tierra_del_Fuego.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tierra_del_Fuego.secret|Tierra_del_Fuego.secret]] 
 

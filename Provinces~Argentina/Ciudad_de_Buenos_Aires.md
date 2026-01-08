@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -58.41
+dv_has_place_latitude: -34.62
+dv_name: Buenos Aires
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
+
 has_time_started: 1580-06-21 
 aliases:
   - Buenos Aires
@@ -253,17 +261,17 @@ native_label: Ciudad Autónoma de Buenos Aires
 # [[Ciudad_de_Buenos_Aires]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-58.41] 
-[has_place_latitude::-34.62] 
-[name::Buenos Aires] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Argentina]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Ciudad_de_Buenos_Aires
@@ -332,17 +340,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_de_Buenos_Aires](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires|Ciudad_de_Buenos_Aires]] 
 
-### [Ciudad_de_Buenos_Aires.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.public|Ciudad_de_Buenos_Aires.public]] 
 
-### [Ciudad_de_Buenos_Aires.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.internal|Ciudad_de_Buenos_Aires.internal]] 
 
-### [Ciudad_de_Buenos_Aires.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.protect|Ciudad_de_Buenos_Aires.protect]] 
 
-### [Ciudad_de_Buenos_Aires.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.private|Ciudad_de_Buenos_Aires.private]] 
 
-### [Ciudad_de_Buenos_Aires.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.personal|Ciudad_de_Buenos_Aires.personal]] 
 
-### [Ciudad_de_Buenos_Aires.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires.secret|Ciudad_de_Buenos_Aires.secret]] 
 

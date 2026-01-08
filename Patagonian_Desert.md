@@ -4,22 +4,25 @@ aliases:
   - Patagonian Steppe
   - Patagonian_Desert
 has_id_wikidata: Q1061324
-highest_point: '[[_Standards/WikiData/WD~Domuyo,312770]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Veinticinco_de_Mayo_Department,_Río_Negro,1191263]]'
+highest_point: "[[_Standards/WikiData/WD~Domuyo,312770]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Veinticinco_de_Mayo_Department,_Río_Negro,1191263]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]'
-  - '[[_Standards/WikiData/WD~desert,8514]]'
+  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
+  - "[[_Standards/WikiData/WD~desert,8514]]"
 coordinate_location: Point(-69.32 -41.32)
-country: '[[_Standards/WikiData/WD~Argentina,414]]'
+country: "[[_Standards/WikiData/WD~Argentina,414]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecoregion%20NT0805.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neuquen%20river%201.jpg
 WWF_ecoregion_code: NT0805
 Commons_category: Patagonian Desert
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Patagonian_Desert,1061324]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Patagonian_Desert,1061324]]"
 ---
 
 # [[Patagonian_Desert]] 
 
-#is_/same_as :: [[WD~Patagonian_Desert,1061324]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -48,4 +51,21 @@ Commons_category: Patagonian Desert
 > and came into existence as the Andes rose to the west.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Patagonian%20Desert) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert|Patagonian_Desert]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.public|Patagonian_Desert.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.internal|Patagonian_Desert.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.protect|Patagonian_Desert.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.private|Patagonian_Desert.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.personal|Patagonian_Desert.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Patagonian_Desert.secret|Patagonian_Desert.secret]] 
 

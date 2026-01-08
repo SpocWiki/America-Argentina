@@ -9,53 +9,53 @@ aliases:
   - Perón,Eva
 has_id_wikidata: Q40933
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
-  - '[[_Standards/WikiData/WD~suffragist,27532437]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
+  - "[[_Standards/WikiData/WD~suffragist,27532437]]"
   - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
-spouse: '[[_Standards/WikiData/WD~Juan_Perón,93330]]'
+spouse: "[[_Standards/WikiData/WD~Juan_Perón,93330]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Condor_of_the_Andes,94127]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_Honour_and_Merit,112390]]'
-  - '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]'
-  - '[[_Standards/WikiData/WD~Order_of_Boyacá,2758023]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_Merit,3885450]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_Merit,3885457]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Umayyads,14605606]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Orange_Nassau,20879970]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Condor_of_the_Andes,25342379]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Honor_and_Merit,28801921]]'
-cause_of_death: '[[_Standards/WikiData/WD~cervix_uterine_cancer,160105]]'
+  - "[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]"
+  - "[[_Standards/WikiData/WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Condor_of_the_Andes,94127]]"
+  - "[[_Standards/WikiData/WD~National_Order_of_Honour_and_Merit,112390]]"
+  - "[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]"
+  - "[[_Standards/WikiData/WD~Order_of_Boyacá,2758023]]"
+  - "[[_Standards/WikiData/WD~National_Order_of_Merit,3885450]]"
+  - "[[_Standards/WikiData/WD~National_Order_of_Merit,3885457]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Umayyads,14605606]]"
+  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]"
+  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Orange_Nassau,20879970]]"
+  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Condor_of_the_Andes,25342379]]"
+  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Honor_and_Merit,28801921]]"
+cause_of_death: "[[_Standards/WikiData/WD~cervix_uterine_cancer,160105]]"
 movement: "[[_Standards/WikiData/WD~women's_rights,223569]]"
-given_name: '[[_Standards/WikiData/WD~Eva,829665]]'
-place_of_burial: '[[_Standards/WikiData/WD~Recoleta_Cemetery,831322]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Female_Peronist_Party,833225]]'
-member_of: '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
-place_of_birth: '[[_Standards/WikiData/WD~Q1020277,1020277]]'
+given_name: "[[_Standards/WikiData/WD~Eva,829665]]"
+place_of_burial: "[[_Standards/WikiData/WD~Recoleta_Cemetery,831322]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Female_Peronist_Party,833225]]"
+member_of: "[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]"
+place_of_birth: "[[_Standards/WikiData/WD~Q1020277,1020277]]"
 position_held:
-  - '[[_Standards/WikiData/WD~president,1255921]]'
-  - '[[_Standards/WikiData/WD~Spiritual_Leader_of_the_Nson_webadasArgentina,7578108]]'
-  - '[[_Standards/WikiData/WD~First_Lady_of_Argentina,24703451]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-sibling: '[[_Standards/WikiData/WD~Juan_Ramón_Duarte,10312634]]'
-family_name: '[[_Standards/WikiData/WD~Duarte,18699850]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Argentina,414]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-place_of_death: '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
-field_of_work: '[[_Standards/WikiData/WD~politics,7163]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+  - "[[_Standards/WikiData/WD~president,1255921]]"
+  - "[[_Standards/WikiData/WD~Spiritual_Leader_of_the_Nson_webadasArgentina,7578108]]"
+  - "[[_Standards/WikiData/WD~First_Lady_of_Argentina,24703451]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+sibling: "[[_Standards/WikiData/WD~Juan_Ramón_Duarte,10312634]]"
+family_name: "[[_Standards/WikiData/WD~Duarte,18699850]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Argentina,414]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
+place_of_death: "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
+field_of_work: "[[_Standards/WikiData/WD~politics,7163]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
 Commons_gallery: Eva Perón
 Commons_category: Eva Perón
 BHCL_UUID: 60e4aa45-e847-48f3-8bd4-8fe7fbd0353c
@@ -65,16 +65,19 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/DSC02063%20-%
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Eva%20Peron-article-1.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Peron%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Evita%20%28cropped2%29.JPG
-ISNI: 0000000083740442
+ISNI: 83740442
 Libris_URI: 64jlhsbq344tt8b
 birth_name: María Eva Duarte
 name_in_native_language: María Eva Duarte de Perón
 date_of_birth: 1919-05-07T00:00:00Z
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]]"
 ---
 
 # [[Perón,Eva]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -124,4 +127,21 @@ date_of_birth: 1919-05-07T00:00:00Z
 > owe a debt to Eva Perón for "her example of passion and combativeness".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eva%20Per%C3%B3n) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva|Perón,Eva]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.public|Perón,Eva.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.internal|Perón,Eva.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.protect|Perón,Eva.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.private|Perón,Eva.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.personal|Perón,Eva.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Perón,Eva.secret|Perón,Eva.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Salta/
 
 ## Confidential Links & Embeds: 
 
-### [Salta](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta|Salta]] 
 
-### [Salta.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.public|Salta.public]] 
 
-### [Salta.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.internal|Salta.internal]] 
 
-### [Salta.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.protect|Salta.protect]] 
 
-### [Salta.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.private|Salta.private]] 
 
-### [Salta.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.personal|Salta.personal]] 
 
-### [Salta.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Salta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Salta.secret|Salta.secret]] 
 

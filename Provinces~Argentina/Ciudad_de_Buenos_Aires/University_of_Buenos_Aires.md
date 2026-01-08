@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversidadDeBuenosAires: 6ch8r"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~University_of_Buenos_Aires,194223]]"
+dv_university-universidaddebuenosaires: 6ch8r"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~University_of_Buenos_Aires,194223]]"
+
 has_time_started: 1821-08-12 
 aliases:
   - 'University of Buenos Aires (Spanish: Universidad de Buenos Aires'
@@ -46,7 +52,7 @@ seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/UBA.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Uba%20univ%20bsas%20logo.png
 official_website: https://www.uba.ar/
 ISNI: 0000000100561981
-Wolfram_Language_entity_code: Entity["University", "UniversidadDeBuenosAires::6ch8r"]
+Wolfram_Language_entity_code: Entity"University", "UniversidadDeBuenosAires = `=this.dv_"University", "UniversidadDeBuenosAires`
 X_Twitter_username: ubaonline
 Commons_Institution_page: Universidad de Buenos Aires
 Commons_category: Universidad de Buenos Aires
@@ -57,7 +63,7 @@ motto_text: Argentum virtus robur et studium
 
 # [[University_of_Buenos_Aires]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~University_of_Buenos_Aires,194223]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > The University of Buenos Aires (Spanish: Universidad de Buenos Aires, UBA) 
@@ -79,4 +85,21 @@ motto_text: Argentum virtus robur et studium
 > Since 1949, all of the undergraduate programs at the University of Buenos Aires are free of charge for everyone, regardless of nationality. Tuition from postgraduate programs helps fund the UBA's social mission to provide free university education for all.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Buenos%20Aires) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires|University_of_Buenos_Aires]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.public|University_of_Buenos_Aires.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.internal|University_of_Buenos_Aires.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.protect|University_of_Buenos_Aires.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.private|University_of_Buenos_Aires.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.personal|University_of_Buenos_Aires.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Ciudad_de_Buenos_Aires/University_of_Buenos_Aires.secret|University_of_Buenos_Aires.secret]] 
 

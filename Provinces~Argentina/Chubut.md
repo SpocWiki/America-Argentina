@@ -40,17 +40,17 @@ markerFolder: ./Chubut/
 
 ## Confidential Links & Embeds: 
 
-### [Chubut](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut|Chubut]] 
 
-### [Chubut.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.public|Chubut.public]] 
 
-### [Chubut.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.internal|Chubut.internal]] 
 
-### [Chubut.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.protect|Chubut.protect]] 
 
-### [Chubut.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.private|Chubut.private]] 
 
-### [Chubut.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.personal|Chubut.personal]] 
 
-### [Chubut.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Chubut.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Chubut.secret|Chubut.secret]] 
 

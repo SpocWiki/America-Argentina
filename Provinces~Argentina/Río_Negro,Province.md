@@ -47,17 +47,17 @@ markerFolder: ./Río_Negro,Province/
 
 ## Confidential Links & Embeds: 
 
-### [Río_Negro](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province|Río_Negro,Province]] 
 
-### [Río_Negro.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.public|Río_Negro,Province.public]] 
 
-### [Río_Negro.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.internal|Río_Negro,Province.internal]] 
 
-### [Río_Negro.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.protect|Río_Negro,Province.protect]] 
 
-### [Río_Negro.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.private|Río_Negro,Province.private]] 
 
-### [Río_Negro.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.personal|Río_Negro,Province.personal]] 
 
-### [Río_Negro.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Río_Negro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Río_Negro,Province.secret|Río_Negro,Province.secret]] 
 

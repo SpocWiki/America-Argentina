@@ -41,17 +41,17 @@ markerFolder: ./Entre_Ríos/
 
 ## Confidential Links & Embeds: 
 
-### [Entre_Ríos](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos|Entre_Ríos]] 
 
-### [Entre_Ríos.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.public|Entre_Ríos.public]] 
 
-### [Entre_Ríos.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.internal|Entre_Ríos.internal]] 
 
-### [Entre_Ríos.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.protect|Entre_Ríos.protect]] 
 
-### [Entre_Ríos.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.private|Entre_Ríos.private]] 
 
-### [Entre_Ríos.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.personal|Entre_Ríos.personal]] 
 
-### [Entre_Ríos.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Entre_Ríos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Entre_Ríos.secret|Entre_Ríos.secret]] 
 

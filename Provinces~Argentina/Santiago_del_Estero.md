@@ -41,17 +41,17 @@ markerFolder: ./Santiago_del_Estero/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago_del_Estero](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero|Santiago_del_Estero]] 
 
-### [Santiago_del_Estero.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.public|Santiago_del_Estero.public]] 
 
-### [Santiago_del_Estero.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.internal|Santiago_del_Estero.internal]] 
 
-### [Santiago_del_Estero.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.protect|Santiago_del_Estero.protect]] 
 
-### [Santiago_del_Estero.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.private|Santiago_del_Estero.private]] 
 
-### [Santiago_del_Estero.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.personal|Santiago_del_Estero.personal]] 
 
-### [Santiago_del_Estero.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santiago_del_Estero.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santiago_del_Estero.secret|Santiago_del_Estero.secret]] 
 

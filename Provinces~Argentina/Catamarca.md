@@ -40,17 +40,17 @@ markerFolder: ./Catamarca/
 
 ## Confidential Links & Embeds: 
 
-### [Catamarca](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca|Catamarca]] 
 
-### [Catamarca.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.public|Catamarca.public]] 
 
-### [Catamarca.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.internal|Catamarca.internal]] 
 
-### [Catamarca.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.protect|Catamarca.protect]] 
 
-### [Catamarca.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.private|Catamarca.private]] 
 
-### [Catamarca.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.personal|Catamarca.personal]] 
 
-### [Catamarca.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Catamarca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Catamarca.secret|Catamarca.secret]] 
 

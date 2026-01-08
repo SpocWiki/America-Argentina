@@ -12,11 +12,14 @@ country: "[[_Standards/WikiData/WD~Argentina,414]]"
 Dewey_Decimal_Classification: "982"
 Commons_category: History of Argentina
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20San%20Mart%C3%ADn%20%28retrato%2C%20c.1828%29.jpg
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Argentina,243976]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Argentina,243976]]"
 ---
 
 # [[History_of_Argentina]] 
 
-#is_/same_as :: [[WD~History_of_Argentina,243976]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -34,4 +37,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20San%2
 > In 1776, the Spanish Crown established the Viceroyalty of the Río de la Plata, an umbrella of territories from which, with the Revolution of May 1810, began a process of gradual formation of several independent states, including one called the United Provinces of the Río de la Plata. With the declaration of independence on 9 July 1816, and the military defeat of the Spanish Empire in 1824, a federal state was formed in 1853–1861, known today as the Argentine Republic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Argentina) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina|History_of_Argentina]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.public|History_of_Argentina.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.internal|History_of_Argentina.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.protect|History_of_Argentina.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.private|History_of_Argentina.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.personal|History_of_Argentina.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/History_of_Argentina.secret|History_of_Argentina.secret]] 
 

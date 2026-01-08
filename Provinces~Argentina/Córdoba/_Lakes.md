@@ -41,17 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes|_Lakes]] 
 
-### [_Lakes.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.public|_Lakes.public]] 
 
-### [_Lakes.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.internal|_Lakes.internal]] 
 
-### [_Lakes.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.protect|_Lakes.protect]] 
 
-### [_Lakes.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.private|_Lakes.private]] 
 
-### [_Lakes.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.personal|_Lakes.personal]] 
 
-### [_Lakes.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Córdoba/_Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Córdoba/_Lakes.secret|_Lakes.secret]] 
 

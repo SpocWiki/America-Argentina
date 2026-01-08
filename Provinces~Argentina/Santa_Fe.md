@@ -41,17 +41,17 @@ markerFolder: ./Santa_Fe/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Fe](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe|Santa_Fe]] 
 
-### [Santa_Fe.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.public|Santa_Fe.public]] 
 
-### [Santa_Fe.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.internal|Santa_Fe.internal]] 
 
-### [Santa_Fe.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.protect|Santa_Fe.protect]] 
 
-### [Santa_Fe.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.private|Santa_Fe.private]] 
 
-### [Santa_Fe.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.personal|Santa_Fe.personal]] 
 
-### [Santa_Fe.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Santa_Fe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Santa_Fe.secret|Santa_Fe.secret]] 
 

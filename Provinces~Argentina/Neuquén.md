@@ -40,17 +40,17 @@ markerFolder: ./Neuquén/
 
 ## Confidential Links & Embeds: 
 
-### [Neuquén](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén|Neuquén]] 
 
-### [Neuquén.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.public|Neuquén.public]] 
 
-### [Neuquén.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.internal|Neuquén.internal]] 
 
-### [Neuquén.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.protect|Neuquén.protect]] 
 
-### [Neuquén.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.private|Neuquén.private]] 
 
-### [Neuquén.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.personal|Neuquén.personal]] 
 
-### [Neuquén.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Neuquén.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Neuquén.secret|Neuquén.secret]] 
 

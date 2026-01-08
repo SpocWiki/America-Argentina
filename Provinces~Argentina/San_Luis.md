@@ -41,17 +41,17 @@ markerFolder: ./San_Luis/
 
 ## Confidential Links & Embeds: 
 
-### [San_Luis](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis|San_Luis]] 
 
-### [San_Luis.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.public|San_Luis.public]] 
 
-### [San_Luis.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.internal|San_Luis.internal]] 
 
-### [San_Luis.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.protect|San_Luis.protect]] 
 
-### [San_Luis.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.private|San_Luis.private]] 
 
-### [San_Luis.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.personal|San_Luis.personal]] 
 
-### [San_Luis.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/San_Luis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/San_Luis.secret|San_Luis.secret]] 
 

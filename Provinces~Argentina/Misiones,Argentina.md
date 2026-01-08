@@ -41,17 +41,17 @@ markerFolder: ./Misiones,Argentina/
 
 ## Confidential Links & Embeds: 
 
-### [Misiones](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina|Misiones,Argentina]] 
 
-### [Misiones.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.public|Misiones,Argentina.public]] 
 
-### [Misiones.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.internal|Misiones,Argentina.internal]] 
 
-### [Misiones.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.protect|Misiones,Argentina.protect]] 
 
-### [Misiones.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.private|Misiones,Argentina.private]] 
 
-### [Misiones.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.personal|Misiones,Argentina.personal]] 
 
-### [Misiones.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Misiones.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Misiones,Argentina.secret|Misiones,Argentina.secret]] 
 

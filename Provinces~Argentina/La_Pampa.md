@@ -41,17 +41,17 @@ markerFolder: ./La_Pampa/
 
 ## Confidential Links & Embeds: 
 
-### [La_Pampa](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa|La_Pampa]] 
 
-### [La_Pampa.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.public|La_Pampa.public]] 
 
-### [La_Pampa.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.internal|La_Pampa.internal]] 
 
-### [La_Pampa.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.protect|La_Pampa.protect]] 
 
-### [La_Pampa.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.private|La_Pampa.private]] 
 
-### [La_Pampa.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.personal|La_Pampa.personal]] 
 
-### [La_Pampa.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/La_Pampa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/La_Pampa.secret|La_Pampa.secret]] 
 

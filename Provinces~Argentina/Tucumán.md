@@ -40,17 +40,17 @@ markerFolder: ./Tucumán/
 
 ## Confidential Links & Embeds: 
 
-### [Tucumán](/_Standards/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán|Tucumán]] 
 
-### [Tucumán.public](/_public/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.public|Tucumán.public]] 
 
-### [Tucumán.internal](/_internal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.internal|Tucumán.internal]] 
 
-### [Tucumán.protect](/_protect/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.protect|Tucumán.protect]] 
 
-### [Tucumán.private](/_private/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.private|Tucumán.private]] 
 
-### [Tucumán.personal](/_personal/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.personal|Tucumán.personal]] 
 
-### [Tucumán.secret](/_secret/Earth/Continent/America~South/Argentina/Provinces~Argentina/Tucumán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina/Provinces~Argentina/Tucumán.secret|Tucumán.secret]] 
 
