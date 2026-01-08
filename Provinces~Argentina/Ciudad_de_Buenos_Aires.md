@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -58.41
 dv_has_place_latitude: -34.62
-dv_name: Buenos Aires
+dv_has_name_: Buenos Aires
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
