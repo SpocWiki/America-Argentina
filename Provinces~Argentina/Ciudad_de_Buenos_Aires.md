@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -58.41
 dv_has_place_latitude: -34.62
-dv_has_name_: Buenos Aires
+dv_has_name: Buenos Aires
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Buenos_Aires,1486|WD~Buenos_Aires,1486]]"
@@ -264,7 +264,7 @@ native_label: Ciudad Autónoma de Buenos Aires
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Argentina]]  
 [StateId::] 
