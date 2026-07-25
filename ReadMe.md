@@ -255,7 +255,7 @@ part_of:
 history_of_topic: "[[/_Standards/WikiData/WD~history_of_Argentina,243976|WD~history_of_Argentina,243976]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
@@ -952,7 +952,7 @@ dv_ISO2: AR
 dv_ISO3: ARG
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]"
+    - "[[../../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]"
     - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina|Argentina]]"
     - "[[/_public/Earth/Continent/America~South/Southern_Cone/Argentina.public|Argentina.public]]"
     - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina.internal|Argentina.internal]]"
@@ -972,7 +972,7 @@ dv_has_place_latitude: -34.62
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Argentina
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[../../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]"
   - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Argentina|Argentina]]"
   - "[[/_public/Earth/Continent/America~South/Southern_Cone/Argentina.public|Argentina.public]]"
   - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Argentina.internal|Argentina.internal]]"
@@ -990,7 +990,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Argentina/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1058,7 +1058,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
 
 ## #has_/map  
 
@@ -1077,7 +1077,7 @@ markerFile: [[Argentina]]
 
 ```leaflet
 id: Argentina_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1101,13 +1101,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires|Buenos_Aires]]  
+Capital :: [[Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires|Buenos_Aires]]  
 
-![[Argentina/Coat_of_arms_of_Argentina.svg|350]]
+![[Coat_of_arms_of_Argentina.svg|350]]
 
-![[../../../xLarge/National-Anthem/Anthem-Argentina.mp3|Anthem-Argentina.mp3]]
+![[../../../../xLarge/National-Anthem/Anthem-Argentina.mp3|Anthem-Argentina.mp3]]
 
-![[Argentina/Flag_of_Argentina.svg|350]]
+![[Flag_of_Argentina.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
