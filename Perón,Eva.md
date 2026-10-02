@@ -7,6 +7,38 @@ aliases:
   - Eva Duarte
   - Evita
   - Perón,Eva
+  - Eva Duarte de Perón
+  - Eva Peron
+  - Eva Perona
+  - Eva Perónová
+  - Evita Peron
+  - Evita Perón
+  - Yeva Peron
+  - Εβίτα Περόν
+  - Ева Перон
+  - Эва Перон
+  - Эва Пэрон
+  - Էվա Պերոն
+  - אווה פרון
+  - إيفا بيرون
+  - اوا پرون
+  - ايفا بيرون
+  - ايوا پيرون
+  - ایوا پیرون
+  - ایویٹا
+  - एवा पेरोन
+  - एव्हा पेरॉन
+  - এভা পেরোন
+  - இவா பெரோன்
+  - ഇവ പെറോൻ
+  - เอบา เปรอน
+  - ევა პერონი
+  - ევიტა პერონი
+  - エバ・ペロン
+  - 伊娃·班朗
+  - 伊娃·裴隆
+  - 伊娃貝隆
+  - 에바 페론
 has_id_wikidata: Q40933
 occupation:
   - "[[_Standards/WikiData/WD~politician,82955]]"
@@ -15,6 +47,12 @@ occupation:
   - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
   - "[[_Standards/WikiData/WD~suffragist,27532437]]"
   - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+  - '[[/_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+  - '[[/_Standards/WikiData/WD~stage_actor,2259451|WD~stage_actor,2259451]]'
+  - '[[/_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+  - '[[/_Standards/WikiData/WD~trade_unionist,15627169|WD~trade_unionist,15627169]]'
+  - '[[/_Standards/WikiData/WD~suffragist,27532437|WD~suffragist,27532437]]'
+  - "[[/_Standards/WikiData/WD~women's_rights_activist,28692502|WD~women's_rights_activist,28692502]]"
 spouse: "[[_Standards/WikiData/WD~Juan_Perón,93330]]"
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]"
@@ -33,6 +71,21 @@ award_received:
   - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Orange_Nassau,20879970]]"
   - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Condor_of_the_Andes,25342379]]"
   - "[[_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Honor_and_Merit,28801921]]"
+  - '[[/_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713|WD~Order_of_the_Southern_Cross,93713]]'
+  - '[[/_Standards/WikiData/WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869|WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869]]'
+  - '[[/_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956|WD~Order_of_the_Aztec_Eagle,93956]]'
+  - '[[/_Standards/WikiData/WD~Order_of_the_Condor_of_the_Andes,94127|WD~Order_of_the_Condor_of_the_Andes,94127]]'
+  - '[[/_Standards/WikiData/WD~National_Order_of_Honour_and_Merit,112390|WD~National_Order_of_Honour_and_Merit,112390]]'
+  - '[[/_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232|WD~Order_of_the_Sun_of_Peru,1415232]]'
+  - '[[/_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970|WD~Order_of_the_Liberator_General_San_Martín,1783970]]'
+  - '[[/_Standards/WikiData/WD~Order_of_Boyacá,2758023|WD~Order_of_Boyacá,2758023]]'
+  - '[[/_Standards/WikiData/WD~National_Order_of_Merit,3885450|WD~National_Order_of_Merit,3885450]]'
+  - '[[/_Standards/WikiData/WD~National_Order_of_Merit,3885457|WD~National_Order_of_Merit,3885457]]'
+  - '[[/_Standards/WikiData/WD~Order_of_the_Umayyads,14605606|WD~Order_of_the_Umayyads,14605606]]'
+  - '[[/_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974|WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
+  - '[[/_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Orange_Nassau,20879970|WD~Grand_Cross_of_the_Order_of_Orange_Nassau,20879970]]'
+  - '[[/_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Condor_of_the_Andes,25342379|WD~Grand_Cross_of_the_Order_of_the_Condor_of_the_Andes,25342379]]'
+  - '[[/_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Honor_and_Merit,28801921|WD~Grand_Cross_of_the_National_Order_of_Honor_and_Merit,28801921]]'
 cause_of_death: "[[_Standards/WikiData/WD~cervix_uterine_cancer,160105]]"
 movement: "[[_Standards/WikiData/WD~women's_rights,223569]]"
 given_name: "[[_Standards/WikiData/WD~Eva,829665]]"
@@ -44,6 +97,9 @@ position_held:
   - "[[_Standards/WikiData/WD~president,1255921]]"
   - "[[_Standards/WikiData/WD~Spiritual_Leader_of_the_Nson_webadasArgentina,7578108]]"
   - "[[_Standards/WikiData/WD~First_Lady_of_Argentina,24703451]]"
+  - '[[/_Standards/WikiData/WD~president,1255921|WD~president,1255921]]'
+  - '[[/_Standards/WikiData/WD~Spiritual_Leader_of_the_Nson_webadasArgentina,7578108|WD~Spiritual_Leader_of_the_Nson_webadasArgentina,7578108]]'
+  - '[[/_Standards/WikiData/WD~First_Lady_of_Argentina,24703451|WD~First_Lady_of_Argentina,24703451]]'
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
 sibling: "[[_Standards/WikiData/WD~Juan_Ramón_Duarte,10312634]]"
@@ -73,6 +129,104 @@ date_of_birth: 1919-05-07T00:00:00Z
 dv_is_:
   same_as: "[[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]]"
 dv_is_same_as: "[[../../../../../WikiData/WD~Eva_Perón,40933|WD~Eva_Perón,40933]]"
+patient_of: '[[/_Standards/WikiData/WD~María_Epul_de_Cañuqueo,94500114|WD~María_Epul_de_Cañuqueo,94500114]]'
+P1015: 90213036
+dv_has_:
+  name_:
+    af: Eva Perón
+    an: Eva Perón
+    ar: إيفا بيرون
+    arz: ايفا بيرون
+    ast: Eva Perón
+    ay: Eva Perón
+    az: Yeva Peron
+    be: Эва Перон
+    be_tarask: Эва Пэрон
+    bg: Ева Перон
+    bn: এভা পেরোন
+    br: Eva Perón
+    bs: Eva Perón
+    ca: Eva Perón
+    cs: Eva Perónová
+    cy: Eva Perón
+    da: Eva Peron
+    de: Eva Perón
+    el: Εβίτα Περόν
+    en: Eva Perón
+    eo: Eva Perón
+    es: Eva Perón
+    et: Eva Perón
+    eu: Eva Perón
+    fa: اوا پرون
+    fi: Eva Perón
+    fr: Eva Perón
+    ga: Eva Perón
+    gl: Eva Perón
+    gn: Eva Perón
+    ha: Eva Perón
+    he: אווה פרון
+    hi: एवा पेरोन
+    hr: Eva Perón
+    hsb: Eva Perón
+    hu: Evita Perón
+    hy: Էվա Պերոն
+    id: Eva Perón
+    io: Eva Perón
+    is: Eva Perón
+    it: Evita Perón
+    ja: エバ・ペロン
+    jv: Eva Perón
+    ka: ევიტა პერონი
+    ko: 에바 페론
+    la: Eva Perón
+    lb: Eva Perón
+    lij: Eva Duarte de Perón
+    lt: Eva Perón
+    lv: Eva Perona
+    mg: Eva Perón
+    mk: Ева Перон
+    ml: ഇവ പെറോൻ
+    mn: Эва Перон
+    mr: एव्हा पेरॉन
+    ms: Eva Peron
+    nah: Eva Perón
+    nan: Eva Perón
+    nb: Eva Perón
+    nds: Eva Peron
+    new: एवा पेरोन
+    nl: Eva Perón
+    nn: Eva Peron
+    oc: Eva Perón
+    pl: Eva Perón
+    pnb: ایوا پیرون
+    ps: ايوا پيرون
+    pt: Eva Perón
+    pt_br: Eva Perón
+    qu: María Eva Duarte
+    ro: Eva Perón
+    ru: Эва Перон
+    sa: एवा पेरोन
+    sco: Eva Perón
+    sgs: Eva Perón
+    sh: Eva Peron
+    sk: Eva Perónová
+    sl: Eva Perón
+    sq: Evita Peron
+    sr: Ева Перон
+    sv: Eva Perón
+    ta: இவா பெரோன்
+    th: เอบา เปรอน
+    tl: Eva Perón
+    tr: Eva Perón
+    uk: Ева Перон
+    ur: ایویٹا
+    uz: Eva Perón
+    vi: Evita
+    war: Eva Perón
+    wuu: 伊娃·班朗
+    xmf: ევა პერონი
+    yue: 伊娃貝隆
+    zh: 伊娃·裴隆
 ---
 
 # [[Perón,Eva]] 
